@@ -1,2 +1,3 @@
 # StarPatternsJava
-This is Day 9 assignment on pattern programming
+DAY 9 Pattern programming Assignment compleated.
+Day 15 String programming assignment compleated.
